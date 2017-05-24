@@ -1,0 +1,7 @@
+1. First real intro to git, so it was nice to have that foundation
+2. Introduces the concepts well
+3. Patient for new people
+
+1. Might be good to explain more of the theory behind it
+2. more work into making sure everyone has all the tools needed
+3. more info about branches and remotes, still not sure what a remote is

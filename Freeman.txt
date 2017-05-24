@@ -1,0 +1,9 @@
+Three Things I Liked
+- I was able to learn a lot of the commands for GitHub
+- I was able to get access to the ProHealth GitHub account
+- I had a little time to practice using Github
+
+Three Things to Improve
+- I wished we had a little more time to go over using Github
+- I wanted to go over more examples, like creating a folder in Github
+- I would have liked to have heard more about the different capabilities of using Github in the terminal vs. online vs. on the desktop

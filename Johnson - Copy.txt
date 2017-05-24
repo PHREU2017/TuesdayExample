@@ -1,0 +1,16 @@
+What I Thought of the GitHub Presentation
+
+Likes:
+1. Anna was willing to engage with us if we were having issues with GitHub.
+
+2. Anna used diagrams to explain the structure of GitHub repositories and Branches in-depth.
+
+3. The images were a nice bit of comedy and an occassional source of relaxation.
+
+Dislikes:
+
+1. Anna should not begin to panic if something goes wrong such as a technical glitch. She knows what she is doing and is capable of so the group basically trusts here.
+
+2. Anna does not have to constantly reassure the students about the the amusement or concentration required for the presentation.
+
+3. A part of the presentation on GitBash would have been a huge assist for those more comfortable with GitBash?

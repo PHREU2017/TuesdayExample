@@ -1,0 +1,13 @@
+﻿Dunbar Text File
+
+
+3 things I liked:
+1. The analogies
+2. The pics
+3. Straightforward slides
+
+
+3 things to improve:
+1. Provide outside links to more video examples
+2. Show an interactive example
+3. Tell students beforehand they will be using git and to read up on it
